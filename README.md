@@ -12,7 +12,7 @@ The standard function is based on the grep command, which replaces the searched 
 
 ```sh
 $ grepfrog -h
-grepfrog [COMMON_OPTIONS] <FILE>
+grepfrog <COMMON_OPTIONS> [FILE]
 COMMON_OPTIONS
     -c, -change <String1> <String2>   Change A to B in the file.
     -h, -help                         Prints this message.
