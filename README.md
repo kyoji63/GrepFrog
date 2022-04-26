@@ -14,7 +14,8 @@ The standard function is based on the grep command, which replaces the searched 
 $ grepfrog -h
 grepfrog <COMMON_OPTIONS> [FILE]
 COMMON_OPTIONS
-    -c, -change <String1> <String2>   Change A to B in the file.
+    -c, -change <String1> <String2>   Change <String1> to <String2> in the file.
+    -e, -encode <String>              Encode to the specified character set.
     -h, -help                         Prints this message.
 
 ```
