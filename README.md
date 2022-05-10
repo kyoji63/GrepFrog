@@ -1,4 +1,6 @@
-# 🐸 grepfrog 
+# grepfrog 
+[![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/kyoji63/grepfrog)](https://rust-reportcard.xuri.me/report/github.com/kyoji63/grepfrog)<br>
+
 This repository is a university coursework repository. 🏫<br>
 "grepfrog" is a command that aggregates file modification commands.<br>
 
@@ -44,3 +46,5 @@ The name of this project comes from the japanese word 'kaeru', which means 'conv
 
 ### Development language
 Use Rust, the language specified in the class.
+
+
