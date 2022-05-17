@@ -2,9 +2,7 @@
 
 
 
-[![Coverage Status](https://coveralls.io/repos/github/kyoji63/grepfrog/badge.svg?branch=main)](https://coveralls.io/github/kyoji63/grepfrog?branch=main)<br>
-
-[![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/kyoji63/grepfrog)](https://rust-reportcard.xuri.me/report/github.com/kyoji63/grepfrog)<br>
+[![Coverage Status](https://coveralls.io/repos/github/kyoji63/grepfrog/badge.svg?branch=main)](https://coveralls.io/github/kyoji63/grepfrog?branch=main) [![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/kyoji63/grepfrog)](https://rust-reportcard.xuri.me/report/github.com/kyoji63/grepfrog)<br>
 
 This repository is a university coursework repository. 🏫<br>
 "grepfrog" is a command that aggregates file modification commands.<br>
